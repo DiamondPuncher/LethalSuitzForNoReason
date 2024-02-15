@@ -1,3 +1,3 @@
 Suits:
-Zechoz
+Zechoz,
 Ghoulish
