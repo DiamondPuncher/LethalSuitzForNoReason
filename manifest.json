@@ -1,7 +1,7 @@
 {
-    "name": "ForNoReasonGroupSuits",
-    "version_number": "1.0.2",
-    "website_url": "https://github.com/DiamondPuncher/SuitzForNoReason",
+    "name": "LethalSuitzForNoReason",
+    "version_number": "1.0.3",
+    "website_url": "https://github.com/DiamondPuncher/LethalSuitzForNoReason",
     "description": "Adds some custom suits.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
