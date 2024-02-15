@@ -1,1 +1,3 @@
-Suits
+Suits:
+Zechoz
+Ghoulish
